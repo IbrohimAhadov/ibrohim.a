@@ -1,0 +1,13 @@
+
+q:lang(no) {
+    quotes: "<" ">";
+  }
+.none:lang(no ){
+    quotes: "</";
+}
+button{
+    border: 1px solid red;
+    background-color: white;
+text-align: center;
+left: 200px;
+}
